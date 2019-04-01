@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+scripts=$(dirname $0)
+docker build -t lgsvl/data-marketplace-esearchfeeder .
