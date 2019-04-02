@@ -1,0 +1,153 @@
+{
+    "response": [
+      {
+    "categoryId": "Weather",
+    "creationDateTime": "2018-12-13T02:18:43.041Z",
+    "dataContractTypeStatus": "",
+    "dataType": "FILE",
+    "definition_format": "string",
+    "description": "Santa Clara Weather",
+    "docType": "com.lge.svl.datamarketplace.contract.DataContractType",
+    "extras": {
+    "definition_format": "string",
+    "endTime": "2020-01-01T00:00:00Z",
+    "frequency": 0,
+    "hash": {
+    "method": "",
+    "value": ""
+    },
+    "startTime": "2018-12-13T02:18:43.041Z",
+    "streamSourceEndPoint": "",
+    "streamTargetEndPoint": "",
+    "streamTopic": "",
+    "streamType": ""
+    },
+    "id": "5253d0d6-bd02-4802-a3c9-f477857f44ff",
+    "name": "Santa Clara Weather",
+    "numberOfReviews": 0,
+    "ownerhsip": {
+    "ownershipType": "",
+    "ownershipVerificationMethod": {
+    "attributeName": "",
+    "hash": {
+    "method": "",
+    "value": ""
+    }
+    },
+    "revocation": {
+    "refundPolicy": "",
+    "revocationTime": ""
+    }
+    },
+    "priceType": {
+    "amount": 10,
+    "currency": "USD",
+    "definition_format": "string"
+    },
+    "provider": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_jqjDQJJLd",
+    "reviews": [],
+    "score": 3,
+    "thumbnailURL": "https://anewscafe.com/wp-content/uploads/2011/03/rainbow-weather.jpg"
+    },
+      {
+    "categoryId": "HeathCare",
+    "creationDateTime": "2018-12-13T02:58:46.387Z",
+    "dataContractTypeStatus": "",
+    "dataType": "FILE",
+    "definition_format": "string",
+    "description": "Health Care",
+    "docType": "com.lge.svl.datamarketplace.contract.DataContractType",
+    "extras": {
+    "definition_format": "string",
+    "endTime": "2020-01-01T00:00:00Z",
+    "frequency": 0,
+    "hash": {
+    "method": "",
+    "value": ""
+    },
+    "startTime": "2018-12-13T02:58:46.387Z",
+    "streamSourceEndPoint": "",
+    "streamTargetEndPoint": "",
+    "streamTopic": "",
+    "streamType": ""
+    },
+    "id": "896e8754-784a-4c6f-9575-75d451d67551",
+    "name": "Health Care",
+    "numberOfReviews": 0,
+    "ownerhsip": {
+    "ownershipType": "",
+    "ownershipVerificationMethod": {
+    "attributeName": "",
+    "hash": {
+    "method": "",
+    "value": ""
+    }
+    },
+    "revocation": {
+    "refundPolicy": "",
+    "revocationTime": ""
+    }
+    },
+    "priceType": {
+    "amount": 100,
+    "currency": "USD",
+    "definition_format": "string"
+    },
+    "provider": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_jqjDQJJLd",
+    "reviews": [],
+    "score": 3,
+    "thumbnailURL": "https://price4wnc.org/wp-content/uploads/2018/01/healthcare-779x400.jpg"
+    },
+      {
+    "categoryId": "Automotive",
+    "creationDateTime": "2018-12-12T22:44:52.26Z",
+    "dataContractTypeStatus": "",
+    "dataType": "FILE",
+    "definition_format": "string",
+    "description": "auto data",
+    "docType": "com.lge.svl.datamarketplace.contract.DataContractType",
+    "extras": {
+    "definition_format": "string",
+    "endTime": "2020-01-01T00:00:00Z",
+    "frequency": 0,
+    "hash": {
+    "method": "",
+    "value": ""
+    },
+    "startTime": "2018-12-12T22:44:52.26Z",
+    "streamSourceEndPoint": "",
+    "streamTargetEndPoint": "",
+    "streamTopic": "",
+    "streamType": ""
+    },
+    "id": "cd2af449-19d4-46e7-8daa-9f4b9820d215",
+    "name": "Auto data",
+    "numberOfReviews": 0,
+    "ownerhsip": {
+    "ownershipType": "",
+    "ownershipVerificationMethod": {
+    "attributeName": "",
+    "hash": {
+    "method": "",
+    "value": ""
+    }
+    },
+    "revocation": {
+    "refundPolicy": "",
+    "revocationTime": ""
+    }
+    },
+    "priceType": {
+    "amount": 100,
+    "currency": "USD",
+    "definition_format": "string"
+    },
+    "provider": "https://cognito-idp.us-west-2.amazonaws.com/us-west-2_jqjDQJJLd",
+    "reviews": [],
+    "score": 3,
+    "thumbnailURL": "https://cdn.rohde-schwarz.com/pws/solution/automotive_1/webinarcenter/automotive_webinars_teaser.jpg"
+    }
+    ],
+    "ResponseMetadata":[{"ResponseMetadata":{"RecordsCount":"1","Bookmark":"g1AAAACieJw9zL0KwjAUQOHYyck3yQ0ILi6Ci-AjuJRLEtq0-SP3xlCf3nTQ9XD4vBBimAcjTsRYeLXbaJJ2JvR-m5kzXZXSaYqOk3QmQyXZLLE8Awb8pIiNQKeg_n2k-nhu-nVpO3v8sb6Dh12V_QY_WaC3B4PcmbJazh617VLkgprhXslFS7QsX6qLNpA"}}],
+    "error": ""
+    }
