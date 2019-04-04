@@ -19,7 +19,7 @@ spec:
           claimName: esfeeder-pvc
       containers:
       - name: esearchfeeder
-        image: lgsvl/data-marketplace-esearchfeeder:dev
+        image: lgsvlfx/data-marketplace-esearchfeeder:dev
         imagePullPolicy: Always
         env:
         - name: INDEX_TIMES
