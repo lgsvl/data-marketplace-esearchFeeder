@@ -1,3 +1,7 @@
+#
+# Copyright (c) 2019 LG Electronics Inc.
+# SPDX-License-Identifier: Apache-2.0
+#
 FROM golang as builder
 WORKDIR /go/src/github.com/lgsvl/data-marketplace-esearchFeeder
 RUN go get github.com/Masterminds/glide

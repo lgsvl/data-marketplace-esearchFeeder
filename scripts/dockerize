@@ -1,4 +1,9 @@
 #!/bin/bash
+#
+# Copyright (c) 2019 LG Electronics Inc.
+# SPDX-License-Identifier: Apache-2.0
+#
+
 set -e
 scripts=$(dirname $0)
 docker build -t lgsvl/data-marketplace-esearchfeeder .

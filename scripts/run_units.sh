@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+#
+# Copyright (c) 2019 LG Electronics Inc.
+# SPDX-License-Identifier: Apache-2.0
+#
 
 set -e -u
 
